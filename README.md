@@ -1,7 +1,7 @@
 # update-eks-cluster
 
 1. Create an EKS Cluster using the terraform script present in my GitHub Repo https://github.com/singhritesh85/terraform-eks-withaddons
-2. Take the backup of eks cluster using velero with the help of shell script eks-backup-velero.sh.
+2. Take the backup of eks cluster using velero with the help of shell script eks-backup-velero.sh. I have used velero CLI to install the velero server.
 3. Take the backup of EBS of Nodes for NodeGroup using the shell script ebs-backup.sh.
 4. Provide executable permission to the shell script before executing it.
 5. To update EKS Cluster from 1.27 to 1.29 first of all it needs to be updated to 1.28 then to 1.29. EKS Cluster cannot be directly updated to 1.29 from 1.27.
