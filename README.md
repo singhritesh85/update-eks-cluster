@@ -21,7 +21,7 @@
    coredns                     v1.10.1-eksbuild.4     v1.10.1-eksbuild.7      v1.11.1-eksbuild.6
 ```
 
-You can do the changes in kubernetes_version, release_version and addons version as shown in the screenshots below.
+You can do the changes in kubernetes_version, release_version and addons version of terraform.tfvars file as shown in the screenshots below.
 
 ![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/e9f7a744-abc1-4172-9f1a-18dc8d51c206)
 
