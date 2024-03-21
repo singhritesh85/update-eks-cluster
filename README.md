@@ -21,6 +21,8 @@
    coredns                     v1.10.1-eksbuild.4     v1.10.1-eksbuild.7      v1.11.1-eksbuild.6
 ```
 
+You can do the changes in kubernetes_version, release_version and addons version as shown in the screenshots below.
+
 ![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/e9f7a744-abc1-4172-9f1a-18dc8d51c206)
 
 ![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/eb9f0e79-aa6b-4155-b8f0-ba1a5a7d781f)
