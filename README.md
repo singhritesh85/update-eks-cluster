@@ -25,3 +25,5 @@
 
 ![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/eb9f0e79-aa6b-4155-b8f0-ba1a5a7d781f)
 
+![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/7f4918ef-411b-4cfc-8222-2037a6f0eea3)
+
