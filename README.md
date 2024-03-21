@@ -13,6 +13,10 @@
    For EKS Cluster 1.27, 1.28 and 1.29 I had used the Addons verion as written below.
 ```
    Addons                        1.27                    1.28                    1.29
+
    aws-ebs-csi                 v1.25.0-eksbuild.1     v1.28.0-eksbuild.1      v1.28.0-eksbuild.1
    GuardDuty                   v1.4.1-eksbuild.2      v1.5.0-eksbuild.1       v1.5.0-eksbuild.1
+   kube-proxy                  v1.27.6-eksbuild.2     v1.28.6-eksbuild.2      v1.29.1-eksbuild.2
+   VPC-CNI                     v1.15.1-eksbuild.1     v1.71.1-eksbuild.1      v1.17.1-eksbuild.1
+   coredns                     v1.10.1-eksbuild.4     v1.10.1-eksbuild.7      v1.11.1-eksbuild.6
 ```
