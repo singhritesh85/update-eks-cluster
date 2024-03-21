@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VOL=($(aws ec2 describe-volumes --filter Name=tag:Billing,Values=MyProject --query "Volumes[*].VolumeId" --output text --region us-east-2))
+VOL=($(aws ec2 describe-volumes --filter Name=tag:Billing,Values=MyProject --query "Volumes[*].VolumeId" --output text --region us-east-2))   ### I had used the tag Billing=MyProject you can use as per your project requirement.
 
 ###################### List Volumes attached to EC2 Instances of NodeGroup for EKS Cluster ######################
 echo "Volumes with the volume ID listed below:"
