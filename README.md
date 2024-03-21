@@ -21,7 +21,4 @@
    coredns                     v1.10.1-eksbuild.4     v1.10.1-eksbuild.7      v1.11.1-eksbuild.6
 ```
 
-```
-![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/845c60bd-8b34-46fe-9509-4e206d44b9b7)
 
-```
