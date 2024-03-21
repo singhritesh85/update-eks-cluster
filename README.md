@@ -1,4 +1,4 @@
-![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/e9f7a744-abc1-4172-9f1a-18dc8d51c206)# update-eks-cluster
+# update-eks-cluster
 
 1. Create an EKS Cluster using the terraform script present in my GitHub Repo https://github.com/singhritesh85/terraform-eks-withaddons
 2. Take the backup of eks cluster using velero with the help of shell script eks-backup-velero.sh. I have used velero CLI to install the velero server.
@@ -21,4 +21,5 @@
    coredns                     v1.10.1-eksbuild.4     v1.10.1-eksbuild.7      v1.11.1-eksbuild.6
 ```
 
+![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/e9f7a744-abc1-4172-9f1a-18dc8d51c206)
 
