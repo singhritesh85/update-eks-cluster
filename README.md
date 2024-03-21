@@ -29,3 +29,15 @@ You can do the changes in kubernetes_version, release_version and addons version
 
 ![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/7f4918ef-411b-4cfc-8222-2037a6f0eea3)
 
+Below are the changes in main.tf file
+
+![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/1e28ddb5-d186-4c53-ad80-ae94e6ff146b)
+
+Below are the changes in cluster.tf file.
+
+![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/f52bd966-bf81-41e7-9b1f-56686f7d62e9)
+
+![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/3140d569-bcaf-4bea-b97b-945d7f2262f1)
+
+
+
