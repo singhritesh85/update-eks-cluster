@@ -1,5 +1,5 @@
 # update-eks-cluster
-**Before upgradation of EKS Cluster check Pod Disruption Budget. However it is Application owner's responsibility to implement Pod Disruption Budget.**
+**Before updation of EKS Cluster check Pod Disruption Budget. However it is Application owner's responsibility to implement Pod Disruption Budget.**
 
 1. Create an EKS Cluster using the terraform script present in my GitHub Repo https://github.com/singhritesh85/terraform-eks-withaddons
 2. Take the backup of eks cluster using velero with the help of shell script eks-backup-velero.sh. I have used velero CLI to install the velero server.
