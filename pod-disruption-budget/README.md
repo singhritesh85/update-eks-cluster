@@ -18,7 +18,7 @@ In this example I have created two pods(using replicas: 2) and with the selector
 ![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/a0e485de-a533-45e6-8853-c4838712ac5d)
 ![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/e201f040-5d20-402d-acb7-725826dacd5c)
 ![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/ac980de4-4dbd-44d0-9f67-0bc4aa8e1559)
-![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/ce795fc3-ceea-488d-95f6-2fd66e63b4a8)
+![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/310d8c29-6a48-4f97-b259-fa909d416211)
 ![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/e81a79b6-b467-4bf7-b2f4-c7d3365ed345)
 ![image](https://github.com/singhritesh85/update-eks-cluster/assets/56765895/788854ec-f58b-4981-b3c5-3d2dd634b747)
 
